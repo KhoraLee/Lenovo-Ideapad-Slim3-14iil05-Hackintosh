@@ -12,9 +12,9 @@ Lenovo Ideapad Slim3 14iil05 Hackintosh
 |GPU|Intel Iris Plus Graphics G4 |
 |Display|14" IPS 1920x1080|
 |Audio| Realtek ALC230|
-|Network| DW1820A (Replaced Form Intel® Wireless-AC 9560(9560NGW)|
+|Network| DW1820A ( Replaced Form Intel® Wireless-AC 9560(9560NGW) )|
 
-##Curruent Status
+## Curruent Status
 - **I2C Trackpad is not working**
 - **Audio is not Working**
 - PowerManagement will not work maybe...
