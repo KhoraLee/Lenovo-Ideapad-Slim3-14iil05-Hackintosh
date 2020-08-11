@@ -5,7 +5,7 @@ Lenovo Ideapad Slim3 14iil05 Hackintosh
 |  | Details |
 |:-: | :-:|
 |Device|Lenovo Ideapad Slim3 14IIL05|
-|BootLoader|OpenCore 0.5.9|
+|BootLoader|OpenCore 0.6.0 Debug|
 |CPU|Intel i5 - 1035G4|
 |RAM|4GB on Board + 4GB |
 |Disk|SK Hynix NVMe 256GB + Intel 545s Sata 512GB SSD|
@@ -15,8 +15,6 @@ Lenovo Ideapad Slim3 14iil05 Hackintosh
 |Network| DW1820A ( Replaced Form Intel® Wireless-AC 9560(9560NGW) )|
 
 ## Curruent Status
-- **I2C Trackpad is not working**
-- **Audio is not Working**
 - PowerManagement will not work maybe...
 - Fn Keys not working 
 - ETC
